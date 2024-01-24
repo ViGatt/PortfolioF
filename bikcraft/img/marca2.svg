@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 433 158" width="433" height="158">
+	<title>marca2</title>
+	<defs>
+		<image  width="433" height="158" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAbEAAACeAQMAAACGk6alAAAAAXNSR0IB2cksfwAAAAZQTFRF////////VXz1bAAAAAJ0Uk5TAP9bkSK1AAACJ0lEQVR4nO3YTa6kIBAAYIwLlhzBo3A0OBpH8QjOjgWBJ1D8OK/TVNlpM5NQm9eWfNpdFEYeYzNmzJgxY8aMGTP+vZAhHDcYD2cYOFDnZ83YFmrw9nFfQneLODRYsltTypOdyDmdj+A7I5yEHNWpnDua2zFugZxrRyi3Qs4TXU23qxwYV0dompMlaaqzGKcujqNdS5LcUpNHdY7uBNatNWlJjl9dGu9JzpGceOECwqUBf+AupQuQzqe70lwcaFNVO6dxbs9d07oO4eJAk//0Djqie5a4a07lYRJcvq7Bue4E2kFBNljv8DtQzqXpr2MVyeXnPNotITe0YNXJ7tTQQZzz79Hu+NydveE3+AZv3Vqq/rFz26+aj925npx41lkBS3HoTHOxJhzv1rLq0I5fXZxzDkvxKbfCg4Li4hp62i0wNRQX7jtzw2UCrfeQ0wzOEfozT4H6stsvLk2ipTn+kZNkV18u3Ldc/XB1nua2R5z97cLIsYuTJOduOl+dqk4j31/uuuUvZzDO5PWr255g7GIp9vy+SXYWXu/aniBe6r3bUkFTY5Nd2BXZtff5oNseJJ78juOvnR25bqzmHzjNyhp577oaatGcGzn2wimMU4Xl3Q7DOtlKsTXnh25rU1acxLg68aZ3Yei6/zPIblM2dGUiPNGVibClHmURjxwUdC/1xzpRfh7R5Q51rD2DRaruyOWO2Vl75iNd3UwTXbyhYTNmzJjxX8cPGCh9BFsEuQsAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>
